@@ -1,0 +1,100 @@
+.fejlec {
+	font-family: "Abril Fatface"; 
+	color: #222;
+	margin-bottom: 50px;
+	position: relative;
+	text-align: center;
+}
+
+.idezet {
+	font-family: "Abril Fatface";
+	color: white;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #595959;
+	font-size: 35px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+blockquote::before {
+	content: "\201C";
+}
+
+.bekezdes {
+	font-family: "Josefin Sans";
+	color: #222;
+	line-height: 25px;
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#felirat {
+	font-family: "Merriweather";
+	font-size: 13px;
+	font-style: italic;
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+
+main {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	width: 900px;
+}
+
+.cím1 {
+	position: absolute;
+	left: 215px;
+	bottom: 70px;
+	font-size: 23px;
+}
+
+.cím2 {
+	position: absolute;
+	left: 215px;
+	bottom: 15px;
+	font-size: 45px;
+}
+
+ul {
+	list-style-type: square
+}
+
+h4 {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+h5 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+#egyéb {
+	font-size: 13px;
+	line-height: 20px;
+}
+
+#egyéb2 {
+	font-size: 13px;
+	line-height: 20px;
+}
+
+hr {
+	max-width: 670px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid #595959 1px;
+}
+
+#külön {
+	margin-bottom: 20px;
+}
